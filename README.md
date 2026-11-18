@@ -13,7 +13,7 @@
 <!-- Social badges -->
 <a href="https://linkedin.com/in/abdul-rahman-magdy-albasousy-80267424b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abdulrahmanalbasousy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://abdulrahmanalbasousy.getportify.com"><img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://myportifolio-wheat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="tel:+201212104758"><img src="https://img.shields.io/badge/Egypt-CE1126?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
